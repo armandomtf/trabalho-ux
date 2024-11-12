@@ -1,0 +1,11 @@
+#bemvindo:hover {
+    color: red; 
+    background-color: yellow; 
+    cursor: pointer; 
+    font-weight: bold; 
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(42, 42, 231) ;
+}
